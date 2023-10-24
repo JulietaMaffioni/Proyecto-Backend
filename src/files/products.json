@@ -22,7 +22,7 @@
       "title": "Invictus",
       "description": "Respaldado por décadas de memorables fragancias que llevan su nombre, Paco Rabanne afirma una identidad distintiva resultante de la síntesis del diseño contemporáneo de vanguardia y la artesanía radical.",
       "price": 44500,
-      "thumbnail": "ruta.imagen-3.jpg",
+      "thumbnail": "./public/Invictus.jpg",
       "code": "003",
       "stock": 5
     },
